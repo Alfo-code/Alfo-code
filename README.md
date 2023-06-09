@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p> I'm <b>Alfonso</b>, aspiring Front-End developer from <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/461bc4b2-6744-48a4-a53d-0508c8acc006"/>
  <b>Naples, Italy</b>, currently living in <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/6498f032-dccf-4034-ad62-d82ebd09952b"/> <b>Bristol, UK</b>. </p>
 
-### Things I code with:
+### Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### Projects:
+### Repositories:
 <details>
-  <summary>My Frontend mentor challenges</summary>
+  <summary>Frontend mentor challenges</summary>
   <p><a href="https://www.frontendmentor.io/">Frontend Mentor</a> provides front-end challenges that include professional web designs.</p>
   <blockquote>
      <ul>
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
       
   </blockquote>
 </details> 
+
+### Certificates / Education:
+ - **2021** [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/responsive-web-design)
+ - **2022** [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/javascript-algorithms-and-data-structures)
+ - **2022** [BSU-IOC Web Development Digital Skills Bootcamp, Bath Spa University](https://instituteofcoding.open.ac.uk/badges/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp__03_2022_03_2023__52.png)
   
   
  📫 How to reach me:  
