@@ -1,28 +1,26 @@
 ## Hi There! 👋
 <!--
-**Alfo-code/Alfo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 ### Welcome to my page! 
 <p> I'm <b>Alfonso</b>, aspiring Front-End developer from <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/461bc4b2-6744-48a4-a53d-0508c8acc006"/>
  <b>Naples, Italy</b>, currently living in <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/6498f032-dccf-4034-ad62-d82ebd09952b"/> <b>Bristol, UK</b>. </p>
+
+### Learning:
+🌱 I’m currently learning more about **JavaScript, React.js**
 
 ### Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Repositories:
 <details>
@@ -41,8 +39,11 @@ Here are some ideas to get you started:
  - **2021** [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/responsive-web-design)
  - **2022** [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/javascript-algorithms-and-data-structures)
  - **2022** [BSU-IOC Web Development Digital Skills Bootcamp, Bath Spa University](https://instituteofcoding.open.ac.uk/badges/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp__03_2022_03_2023__52.png)
+ - **2023** [HTML, JavaScript, & Bootstrap, Udemy](https://www.udemy.com/certificate/UC-e10ef6b3-7bd3-4912-abcd-7c6d4980e2a3/)
   
   
  📫 How to reach me:  
   
   <a href="https://www.linkedin.com/in/alfonso-starace-27b50a17a" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a/>
+  <a href="https://codepen.io/alfo-code" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) <a/>
+	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
