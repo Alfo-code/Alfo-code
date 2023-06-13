@@ -43,6 +43,10 @@
     </ul>
   </blockquote>
 </details>
+	
+<p>More projects on my</p>
+	
+ <a href="https://codepen.io/alfo-code" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)<a/>
 
 ### Certificates / Education:
  - **2021** [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/responsive-web-design)
@@ -54,5 +58,4 @@
  📫 How to reach me:  
   
   <a href="https://www.linkedin.com/in/alfonso-starace-27b50a17a" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a/>
-  <a href="https://codepen.io/alfo-code" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) <a/>
-	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
