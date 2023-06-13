@@ -31,9 +31,18 @@
       <li><a href="https://github.com/Alfo-code/Front-endMentor">Qr code</a></li>
       <li><a href="https://github.com/Alfo-code/OrderSummaryComponent">Order Summary Component</a></li>
       <li><a href="https://github.com/Alfo-code/faq-accordion-card">Faq accordion</a></li>
-      
   </blockquote>
-</details> 
+</details>
+
+<details>
+  <summary>Projects built with React</summary>
+  <blockquote>
+     <ul>
+      	<li><a href="https://github.com/Alfo-code/Digital-Business-card">Digital business card</a></li>
+	<li><a href="#">Travel Journal</a></li>
+    </ul>
+  </blockquote>
+</details>
 
 ### Certificates / Education:
  - **2021** [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/responsive-web-design)
