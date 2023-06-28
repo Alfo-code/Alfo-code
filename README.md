@@ -39,6 +39,7 @@
      <ul>
       	<li><a href="https://github.com/Alfo-code/Digital-Business-card">Digital business card</a></li>
 	<li><a href="https://github.com/Alfo-code/travel-journal">Travel Journal</a></li>
+	<li><a href="https://github.com/Alfo-code/Quizzical">Quizzical</a></li>
     </ul>
   </blockquote>
 </details>
