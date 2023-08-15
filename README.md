@@ -53,6 +53,7 @@
  - **2022** [JavaScript Algorithms and Data Structures, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/javascript-algorithms-and-data-structures)
  - **2022** [BSU-IOC Web Development Digital Skills Bootcamp, Bath Spa University](https://instituteofcoding.open.ac.uk/badges/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp__03_2022_03_2023__52.png)
  - **2023** [HTML, JavaScript, & Bootstrap, Udemy](https://www.udemy.com/certificate/UC-e10ef6b3-7bd3-4912-abcd-7c6d4980e2a3/)
+ - **2023** [Front End Development Libraries, freeCodeCamp](https://www.freecodecamp.org/certification/alfo/front-end-development-libraries)
   
   
  📫 How to reach me: 
