@@ -44,6 +44,16 @@
     </ul>
   </blockquote>
 </details>
+
+<details>
+  <summary>Projects with Vanilla JS</summary>
+  <blockquote>
+    <ul>
+      <li><a href="https://github.com/Alfo-code/unit-converter">Unit converter</a></li>
+      <li><a href="https://github.com/Alfo-code/DvDeals_e-commerce">DvDeals e-commerce</a></li>
+    </ul>
+  </blockquote>
+</details> 
 	
 ⚡ More projects on
 	
