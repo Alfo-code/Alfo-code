@@ -5,7 +5,7 @@
 -->
 
 ### Welcome to my page! 
-<p> I'm <b>Alfonso</b>, aspiring Front-End developer from <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/461bc4b2-6744-48a4-a53d-0508c8acc006"/>
+<p> I'm <b>Alfonso</b>, a Front-End web developer from <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/461bc4b2-6744-48a4-a53d-0508c8acc006"/>
  <b>Naples, Italy</b>, currently living in <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/6498f032-dccf-4034-ad62-d82ebd09952b"/> <b>Bristol, UK</b>. </p>
 
 ### Learning:
