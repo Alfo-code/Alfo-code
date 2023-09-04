@@ -50,8 +50,9 @@
   <summary>Projects with Vanilla JS</summary>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/Alfo-code/unit-converter">Unit converter</a></li>
       <li><a href="https://github.com/Alfo-code/DvDeals_e-commerce">DvDeals e-commerce</a></li>
+      <li><a href="https://github.com/Alfo-code/password-generator">Password generator</a></li>
+      <li><a href="https://github.com/Alfo-code/unit-converter">Unit converter</a></li>
     </ul>
   </blockquote>
 </details> 
