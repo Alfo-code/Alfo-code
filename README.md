@@ -9,7 +9,7 @@
  <b>Naples, Italy</b>, currently living in <img src="https://github.com/Alfo-code/Alfo-code/assets/91975532/6498f032-dccf-4034-ad62-d82ebd09952b"/> <b>Bristol, UK</b>. </p>
 
 ### Learning:
-🌱 I’m currently learning more about **JavaScript, React.js**
+🌱 I’m always actively trying to improve my technical skills, I’m currently learning more about **React.js**
 
 ### Skills:
 
@@ -21,6 +21,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Repositories:
 <details>
